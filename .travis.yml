@@ -1,9 +1,12 @@
 language: python
+sudo: required
+dist: xenial # Needed for python 3.7 in travis
+
 python:
   - "2.7"
   - "3.5"
   - "3.6"
-  - "3.6-dev"
+  - "3.7"
 
 install:
   - pip install -r dev-requirements.txt

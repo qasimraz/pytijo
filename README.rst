@@ -1,6 +1,6 @@
 PyTiJo - Text In JSON Out
 =========================
-
+[![codecov](https://codecov.io/gh/qasimraz/pytijo/branch/master/graph/badge.svg)](https://codecov.io/gh/qasimraz/pytijo)
 Structures semi-structured text, useful when parsing command line output
 from unix systems and networking devices.
 

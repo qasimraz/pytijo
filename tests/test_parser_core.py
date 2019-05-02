@@ -1,6 +1,7 @@
 import re
 import pytest
 from pytijo import parser
+import coverage
 
 
 @pytest.fixture(scope="module")

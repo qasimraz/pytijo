@@ -2,7 +2,7 @@ import os
 import json
 import pytest
 from pytijo import parser
-
+import coverage
 
 @pytest.fixture(scope="module")
 def mock_struct(request):

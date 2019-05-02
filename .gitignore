@@ -93,4 +93,6 @@ docs/_build/
 
 # PyBuilder
 target/
-.vscode/settings.json
+
+# Visual Studio Code
+.vscode
